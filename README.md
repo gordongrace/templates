@@ -10,7 +10,7 @@ Generic stand-alones:
 - geojson.ftl (Outputs results in GeoJSON specificatoin.  Geospatial metadata required.)
 
 Bootstrap-powered suite:
-- Pre-requisites: Bootstrap v3 + glyphicons added to collections' web resources folder
+- Pre-requisites: Bootstrap v3 (https://github.com/twbs/bootstrap) + Glyphicons (http://glyphicons.getbootstrap.com/) added to collections' web resources folder (http://docs.funnelback.com/12.4/web_resources_folder.html)
 - bootstrap-search.ftl (contains Freemarker macros outputting Bootstrap-friendly markup - required for suite)
 - list.ftl (list-based search result output based on Bootstrap markup patterns)
 - map.ftl (map-based search result output based on Bootstrap markup patterns and Leaflet mapping library)
