@@ -16,17 +16,6 @@
 <body>    
     <@fb.ViewModeBanner />
     
-    <#-- BRANDING -->
-    <header>
-    <div class="container">    
-        <div class="row">
-        <a id="siteLogoLink" title="Australian Government - Home Page" href="/">
-        <img class="img-responsive" src="http://australia.gov.au/profiles/gsecms/themes/ausgovau/logo.png" alt="Australian Government - Home Page">        
-        </a>
-        </div>
-    </div>
-    </header>
-
     <@bs.NavBar />
         
     <div class="container">
