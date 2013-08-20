@@ -18,6 +18,9 @@ Bootstrap-powered suite:
 - timeline.ftl (timeline-based search result output based on the Almende GitHub Timeline project)
 - table.ftl (table-based search result output)
 
+Related Gists:
+- https://gist.github.com/funnelback
+
 Recommended reading:
 - http://docs.funnelback.com/12.4/search_forms.html
 - http://docs.funnelback.com/12.4/freemarker.html
